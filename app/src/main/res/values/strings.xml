@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">P2FranciscoJavierJimenezJaimes</string>
+    <string name="Escuela">TESOEM</string>
+    <string name="siguiente">Siguente</string>
+    <string name="Titulo2">Menu Principal</string>
+    <string name="Titulo3">Pantalla 3</string>
+    <string name="siguiente2">Siguiente a la pagina 3</string>
+    <string name="Name">Francisco Javier Jiménez Jaimes</string>
+    <string name="grup">7T11</string>
+    <string name="Level">Grupo</string>
+
+</resources>
